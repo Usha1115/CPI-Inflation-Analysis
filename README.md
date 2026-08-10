@@ -18,3 +18,12 @@ This project addresses the following business questions:
 - How has food inflation changed during the 12 months ending May 2023?
 - How did the COVID-19 pandemic affect the prices of Food, Healthcare, and Essential Services?
 - What relationship exists between imported crude oil prices and inflation across different CPI categories?
+
+## Project Objectives
+
+- Analyze the contribution of major CPI categories to overall inflation.
+- Evaluate year-over-year CPI inflation trends across different years.
+- Analyze monthly food inflation trends and identify periods of significant changes.
+- Assess the impact of the COVID-19 pandemic on Food, Healthcare, and Essential Services.
+- Examine the relationship between imported crude oil prices and inflation across CPI categories.
+- Present the analysis through clear and interactive Excel-based visualizations.
