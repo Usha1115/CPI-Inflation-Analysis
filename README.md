@@ -34,3 +34,23 @@ This project addresses the following business questions:
 - Excel Functions — Statistical and analytical calculations
 - Pivot Tables — Data summarization and category-level analysis
 - Charts & Visualizations — Trend analysis and comparison
+
+## Dataset Information
+
+The project uses Consumer Price Index (CPI) data for India covering Rural, Urban, and Rural+Urban sectors.
+
+The dataset contains CPI index values across different categories and time periods, which were used to analyze inflation trends, category contributions, food inflation, COVID-19 impact, and the relationship between crude oil prices and inflation.
+
+### Key Data Areas
+
+- CPI data across Rural, Urban, and Rural+Urban sectors
+- Broad CPI category-level index values
+- Food category data
+- Monthly and yearly CPI values
+- CPI data covering the analysis period from 2017 onward
+- Imported crude oil price data for the oil-inflation analysis
+
+### Source Files
+
+- `All_India_CPI_Raw_Data.xlsx` — Raw CPI dataset
+- `Oil_Price_Trend.xlsx` — Imported crude oil price data
