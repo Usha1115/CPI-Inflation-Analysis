@@ -27,3 +27,10 @@ This project addresses the following business questions:
 - Assess the impact of the COVID-19 pandemic on Food, Healthcare, and Essential Services.
 - Examine the relationship between imported crude oil prices and inflation across CPI categories.
 - Present the analysis through clear and interactive Excel-based visualizations.
+
+## Tools & Technologies
+
+- Microsoft Excel — Data analysis, calculations, and visualization
+- Excel Functions — Statistical and analytical calculations
+- Pivot Tables — Data summarization and category-level analysis
+- Charts & Visualizations — Trend analysis and comparison
