@@ -54,3 +54,38 @@ The dataset contains CPI index values across different categories and time perio
 
 - `All_India_CPI_Raw_Data.xlsx` — Raw CPI dataset
 - `Oil_Price_Trend.xlsx` — Imported crude oil price data
+
+## Analysis Performed
+
+The analysis was performed across five key areas:
+
+### 1. CPI Category Contribution
+Analyzed the contribution of major CPI categories to understand which categories have the greatest influence on overall inflation.
+
+### 2. Year-over-Year Inflation Trend
+Calculated and analyzed year-over-year (YoY) changes in CPI to identify major changes in India's inflation pattern over time.
+
+### 3. Food Inflation Trend
+Analyzed monthly changes in the Food category over the 12-month period ending May 2023 to identify periods of increasing and decreasing food inflation.
+
+### 4. COVID-19 Impact Analysis
+Compared CPI movements in Food, Healthcare, and Essential Services during the COVID-19 period to understand how the pandemic affected essential consumption categories.
+
+### 5. Crude Oil and Inflation Relationship
+Analyzed the relationship between imported crude oil prices and inflation across selected CPI categories using correlation analysis.
+
+## Key Findings
+
+- Food was the largest contributor to overall CPI, accounting for approximately 51.5% of the contribution analyzed.
+- Year-over-year CPI inflation showed significant variation across the analyzed years, with the highest observed rate occurring in 2019.
+- Food inflation fluctuated considerably during the 12-month period analyzed, with both positive and negative month-over-month changes.
+- During the COVID-19 period, essential categories such as Food, Healthcare, and Essential Services showed noticeable changes in their CPI levels.
+- Crude oil prices showed a positive relationship with selected inflation categories, with the analysis indicating a strong correlation for Transportation and Communication.
+
+## Dashboard Preview
+
+The Excel dashboard provides an interactive view of India's CPI inflation trends, category-level contributions, food inflation, COVID-19 impact, and correlation analysis.
+
+### India CPI Inflation Dashboard
+
+![India CPI Inflation Dashboard](Images\Dashboard.png)
