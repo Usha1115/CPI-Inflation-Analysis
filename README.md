@@ -89,3 +89,26 @@ The Excel dashboard provides an interactive view of India's CPI inflation trends
 ### India CPI Inflation Dashboard
 
 ![India CPI Inflation Dashboard](Images/Dashboard.png)
+
+## Project Workflow
+
+```text
+Raw CPI & Oil Price Data
+        │
+        ▼
+Data Cleaning & Preparation
+        │
+        ▼
+Data Analysis in Excel
+        │
+        ├── Category Contribution Analysis
+        ├── YoY Inflation Trend Analysis
+        ├── Food Inflation Analysis
+        ├── COVID-19 Impact Analysis
+        └── Oil Price & Inflation Correlation
+        │
+        ▼
+Charts & Dashboard Creation
+        │
+        ▼
+Key Insights & Findings
