@@ -126,4 +126,20 @@ Key Insights & Findings
 - Dashboard Creation
 
 
+## Business Insights
+
+- Food was the largest contributor to the overall CPI basket, accounting for approximately 51.5% of the analyzed contribution.
+- CPI inflation showed significant variation over the analyzed period, with the highest YoY inflation rate observed in 2019.
+- Food inflation experienced considerable month-to-month fluctuations during the 12-month period ending May 2023.
+- The COVID-19 period resulted in noticeable changes in inflation across essential categories, particularly Food, Healthcare, and Essential Services.
+- Imported crude oil price movements showed a strong positive relationship with Transportation and Communication inflation, with the analysis indicating a correlation of approximately 0.84.
+
+## Recommendations
+
+- Monitor food prices closely because Food represents the largest contribution to the CPI basket.
+- Track transportation-related inflation alongside crude oil price movements to understand potential cost pressures.
+- Pay particular attention to essential categories such as Food and Healthcare during periods of economic disruption.
+- Use month-over-month and year-over-year inflation trends together to identify emerging changes in price levels.
+- Monitor categories with stronger relationships to crude oil prices when assessing potential inflationary pressures.
+
 
