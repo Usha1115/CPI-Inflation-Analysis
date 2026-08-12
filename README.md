@@ -88,4 +88,4 @@ The Excel dashboard provides an interactive view of India's CPI inflation trends
 
 ### India CPI Inflation Dashboard
 
-![India CPI Inflation Dashboard](Images\Dashboard.png)
+![India CPI Inflation Dashboard](Images/Dashboard.png)
