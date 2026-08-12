@@ -91,7 +91,7 @@ The Excel dashboard provides an interactive view of India's CPI inflation trends
 ![India CPI Inflation Dashboard](Images/Dashboard.png)
 
 ## Project Workflow
-
+```text
 Raw CPI & Oil Price Data
         │
         ▼
@@ -111,7 +111,7 @@ Charts & Dashboard Creation
         │
         ▼
 Key Insights & Findings
-
+```
 
 ## Excel Concepts Used
 
