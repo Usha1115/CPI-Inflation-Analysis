@@ -141,4 +141,12 @@ Key Insights & Findings
 - Use month-over-month and year-over-year inflation trends together to identify emerging changes in price levels.
 - Monitor categories with stronger relationships to crude oil prices when assessing potential inflationary pressures.
 
+## Future Improvements
+
+- Automate data cleaning and analysis using Python.
+- Expand the analysis with more recent CPI data.
+- Include additional economic indicators to explore their relationship with inflation.
+- Create a Power BI version of the dashboard for more interactive analysis.
+- Perform deeper statistical analysis to identify additional inflation patterns and relationships.
+
 
