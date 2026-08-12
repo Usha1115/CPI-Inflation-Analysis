@@ -92,7 +92,6 @@ The Excel dashboard provides an interactive view of India's CPI inflation trends
 
 ## Project Workflow
 
-```text
 Raw CPI & Oil Price Data
         │
         ▼
