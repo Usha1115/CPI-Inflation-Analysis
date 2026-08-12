@@ -112,3 +112,14 @@ Charts & Dashboard Creation
         │
         ▼
 Key Insights & Findings
+
+## Excel Concepts Used
+
+- Data Cleaning and Preparation
+- Data Sorting and Filtering
+- Pivot Tables for Data Summarization
+- Percentage Calculations
+- Year-over-Year (YoY) and Month-over-Month (MoM) Analysis
+- Correlation Analysis using `CORREL`
+- Charts and Data Visualization
+- Dashboard Creation
